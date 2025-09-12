@@ -1,0 +1,55 @@
+## Sample WhatsApp Chat Dataset
+Here's a sample WhatsApp chat dataset with 50-100 messages:
+12:00 PM John: Hey 👋
+12:01 PM Alice: Hi! 😊
+12:02 PM John: What's up? 🤔
+12:03 PM Alice: Not much 👍
+12:04 PM John: Okay 👋
+12:05 PM Alice: Bye 👋
+12:06 PM John: See you later 👋
+12:07 PM Alice: Yeah 👍
+12:08 PM John: Have a great day 🌞
+12:09 PM Alice: You too 🌞
+12:10 PM John: Thanks 👍
+12:11 PM Alice: Welcome 😊
+12:12 PM John: How's it going? 🤔
+12:13 PM Alice: It's going well 👍
+12:14 PM John: That's great 😊
+12:15 PM Alice: Yeah 👍
+12:16 PM John: What's new? 🤔
+12:17 PM Alice: Not much 👋
+12:18 PM John: Okay 👍
+12:19 PM Alice: Bye 👋
+12:20 PM John: See you later 👋
+12:21 PM Alice: Have a great day 🌞
+12:22 PM John: You too 🌞
+12:23 PM Alice: Thanks 👍
+12:24 PM John: Welcome 😊
+12:25 PM Alice: How's your day? 🤔
+12:26 PM John: It's going well 👍
+12:27 PM Alice: That's great 😊
+12:28 PM John: Yeah 👍
+12:29 PM Alice: What's up? 🤔
+12:30 PM John: Not much 👋
+
+Let's add more messages to the dataset:
+12:31 PM Alice: I'm excited for the weekend 🤩
+12:32 PM John: Me too! 😊
+12:33 PM Alice: What are you doing? 🤔
+12:34 PM John: I'm going to the movies 🍿
+12:35 PM Alice: That sounds fun! 🎥
+12:36 PM John: Yeah, I'm looking forward to it 👍
+12:37 PM Alice: Have a great time! 😊
+12:38 PM John: Thanks! 👍
+12:39 PM Alice: I'm going to the park 🏞
+12:40 PM John: That sounds nice 🌳
+12:41 PM Alice: Yeah, I love nature 🌸
+12:42 PM John: Me too! 🌟
+
+## Save the Dataset
+Save this dataset to a text file named chat.txt.
+
+Do you want me to:
+1. Help you run the code on this dataset?
+2. Assist with modifying the code?
+3. Provide tips on analyzing the results?
