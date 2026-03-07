@@ -31,7 +31,6 @@ Here's a sample WhatsApp chat dataset with 50-100 messages:
 12:28 PM John: Yeah 👍
 12:29 PM Alice: What's up? 🤔
 12:30 PM John: Not much 👋
-
 Let's add more messages to the dataset:
 12:31 PM Alice: I'm excited for the weekend 🤩
 12:32 PM John: Me too! 😊
@@ -45,11 +44,3 @@ Let's add more messages to the dataset:
 12:40 PM John: That sounds nice 🌳
 12:41 PM Alice: Yeah, I love nature 🌸
 12:42 PM John: Me too! 🌟
-
-## Save the Dataset
-Save this dataset to a text file named chat.txt.
-
-Do you want me to:
-1. Help you run the code on this dataset?
-2. Assist with modifying the code?
-3. Provide tips on analyzing the results?
