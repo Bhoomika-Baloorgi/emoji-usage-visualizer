@@ -51,6 +51,10 @@ python emoji_analysis.py
 ## Output
 The script generates a bar chart that visualizes the frequency of emojis found in the dataset.
 
+## Example Output
+![Emoji Chart](output_chart1.png)
+![Emoji Chart](output_chart2.png)
+
 ## Purpose
 This project demonstrates basic data processing and visualization using Python.  
 It shows how emoji characters can be extracted from text and analyzed to identify simple usage patterns.
